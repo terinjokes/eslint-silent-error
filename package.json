@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "xo": "^0.12.1"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "xo": {
+    "space": true
+  }
+}

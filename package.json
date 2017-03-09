@@ -1,7 +1,7 @@
 {
   "devDependencies": {
-    "eslint": "^1.10.3",
-    "xo": "^0.12.1"
+    "eslint": "^3.17.1",
+    "xo": "^0.17.1"
   },
   "scripts": {
     "test": "xo"
